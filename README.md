@@ -1,0 +1,3 @@
+# belajar-git
+
+ini readme
